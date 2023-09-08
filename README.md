@@ -10,6 +10,12 @@ In this repository you'll find
  - Complete implementation of the Pure HTML and RIA iterations of the assignment
  - A report for both the Pure HTML and RIA implementations
  - A Data Base dump (SQL)
+## Ready, Set, Go!
+To try out the project yourself, follow these simple steps
+1. Download the code/clone this repository
+2. Open your favourite Java IDE and import the projects using Maven. Make sure you have installed a HTTP server (Tomcat is recommended for this project as it was the used one)
+3. Import the database dump into MySQL and set the **web.xml** file with your own credentials
+4. Enjoy!
  ## Conclusion
  All the code and the material present in this repository was produced by Luca Guffanti, feel free to use or take inspiration. Be aware that the project is distributed as-is and I don't assume responsibility for incorrect use of the code.
  The project was awarded a 30/30 grade. 
