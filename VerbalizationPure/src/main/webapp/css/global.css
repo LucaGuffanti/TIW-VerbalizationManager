@@ -1,0 +1,20 @@
+.selectedinTable{
+	background-color: #ccffb3;
+}
+
+.backToPrevious{
+	width: 20%;
+	height: 10%;
+}
+.hcontainer {
+	display:flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	gap: 5% 5%;
+}
+
+.vcontainer {
+	display:flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
